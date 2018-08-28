@@ -1,0 +1,1 @@
+It shows that when using a Python 3.x venv, pylint complains about ``assertRegex`` that was deprecated in Python 2.x, but not in 3.x.
